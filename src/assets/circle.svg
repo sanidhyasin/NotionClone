@@ -1,0 +1,9 @@
+<svg viewBox="0 0 16 16" class="blueCircleDot"
+    style="width: 16px; height: 16px; display: block; fill: inherit; flex-shrink: 0; backface-visibility: hidden; margin-right: 6px;">
+    <circle cx="8" cy="8" r="8" fill="none" stroke="#2383E2">
+        <animate attributeName="r" from="3" to="8" dur="1s" begin="0s" repeatCount="indefinite"></animate>
+        <animate attributeName="opacity" from="1" to="0" dur="1s" begin="0s"
+            repeatCount="indefinite"></animate>
+    </circle>
+    <circle cx="8" cy="8" r="3" fill="#2383E2"></circle>
+</svg>
