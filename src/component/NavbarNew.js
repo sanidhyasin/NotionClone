@@ -96,7 +96,7 @@ const NavbarNew = () => {
       <div
         className={`${
           !toggle ? "hidden" : "flex"
-        } transition-all absolute top-10 p-2 flex-col right-0 mx-1 min-w-[520px] max-h-[540px] z-10 rounded-md bg-slate-50 shadow-lg`}
+        } transition-all absolute top-12 p-2 flex-col right-0 mx-1 min-w-[520px] max-h-[540px] z-10 rounded-md bg-slate-50 shadow-lg`}
       >
         <div className="flex px-2 flex-row border-b-2 border-gray-200 space-x-4 text-sm mb-2">
           <div
@@ -157,7 +157,7 @@ const NavbarNew = () => {
               <div className="ml-3 mr-2">
                 <div className="bg-white rounded-full w-6 h-6">
                   <img
-                    src="https://lh3.googleusercontent.com/a-/AOh14Gibs4OHIcqRIhZwMqifp3TWLUSVRdJ2hRlMXHS0Eg=s100"
+                    src="https://cloudflare-ipfs.com/ipfs/QmY1TbBRNinZFtvXBjRrWH9jfsKQEbadgH7ESEv8LNeWVz"
                     alt=""
                     className="block object-cover h-full w-full rounded-full"
                   />
@@ -237,7 +237,7 @@ const NavbarNew = () => {
                     <div className="flex items-center justify-center w-[34px] h-[34px] rounded-full mr-[10px]">
                       <div className="">
                         <img
-                          src="https://lh3.googleusercontent.com/a-/AOh14Gibs4OHIcqRIhZwMqifp3TWLUSVRdJ2hRlMXHS0Eg=s100"
+                          src="https://cloudflare-ipfs.com/ipfs/QmY1TbBRNinZFtvXBjRrWH9jfsKQEbadgH7ESEv8LNeWVz"
                           alt="teamspace owner"
                           className="h-full w-full rounded-full"
                         />
@@ -371,7 +371,7 @@ const NavbarNew = () => {
                 <div className="flex items-center justify-center w-[34px] h-[34px] rounded-full mr-[10px]">
                   <div className="">
                     <img
-                      src="https://lh3.googleusercontent.com/a-/AOh14Gibs4OHIcqRIhZwMqifp3TWLUSVRdJ2hRlMXHS0Eg=s100"
+                      src="https://news.artnet.com/app/news-upload/2022/01/lzKKY06D_400x400.jpg"
                       alt="teamspace owner"
                       className="h-full w-full rounded-full"
                     />
@@ -418,7 +418,7 @@ const NavbarNew = () => {
                 <div className="flex items-center justify-center w-[34px] h-[34px] rounded-full mr-[10px]">
                   <div className="">
                     <img
-                      src="https://lh3.googleusercontent.com/a-/AOh14Gibs4OHIcqRIhZwMqifp3TWLUSVRdJ2hRlMXHS0Eg=s100"
+                      src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP3vRFfWCC3LBgVZRwAbqOHwx3b8f8RIFKMQ&usqp=CAU"
                       alt="teamspace owner"
                       className="h-full w-full rounded-full"
                     />
